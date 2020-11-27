@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@miketmoore/maze-generator": "1.1.5"
+  },
+  "devDependencies": {
+    "heapdump": "^0.3.15"
   }
 }

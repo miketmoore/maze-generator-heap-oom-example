@@ -6,3 +6,15 @@
   version "1.1.5"
   resolved "https://registry.yarnpkg.com/@miketmoore/maze-generator/-/maze-generator-1.1.5.tgz#d36262148967436b6677c1f3043731b7ed33aeed"
   integrity sha512-5k540h3PntAoVwE1bYCM1KcQLGpfkiK+vOqyjz64QYgWy6xc1bdhqP/xU0NnfazcQsFsV+w+0vSlK7RZ9cR90w==
+
+heapdump@^0.3.15:
+  version "0.3.15"
+  resolved "https://registry.yarnpkg.com/heapdump/-/heapdump-0.3.15.tgz#631a8a2585588ea64778d8ec80a64c6c025f6a08"
+  integrity sha512-n8aSFscI9r3gfhOcAECAtXFaQ1uy4QSke6bnaL+iymYZ/dWs9cqDqHM+rALfsHUwukUbxsdlECZ0pKmJdQ/4OA==
+  dependencies:
+    nan "^2.13.2"
+
+nan@^2.13.2:
+  version "2.14.2"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
+  integrity sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==
