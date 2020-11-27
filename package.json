@@ -1,0 +1,9 @@
+{
+  "name": "maze-generator-usage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@miketmoore/maze-generator": "1.1.5"
+  }
+}
