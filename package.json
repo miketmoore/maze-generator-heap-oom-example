@@ -1,5 +1,5 @@
 {
-  "name": "maze-generator-usage",
+  "name": "maze-generator-heap-oom-example",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
